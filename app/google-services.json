@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "326512799531",
+    "firebase_url": "https://tambah-gambar-tok.firebaseio.com",
+    "project_id": "tambah-gambar-tok",
+    "storage_bucket": "tambah-gambar-tok.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326512799531:android:e0ff31f9097f204af49f6e",
+        "android_client_info": {
+          "package_name": "idn.faza.aplikasitodogambar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326512799531-9s0anlu54lai3ggokqnn37u2ntgrk3eq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "idn.faza.aplikasitodogambar",
+            "certificate_hash": "2f7a88b4a89baad95c9a38a5267053286a40d717"
+          }
+        },
+        {
+          "client_id": "326512799531-9ijhdq1bcdoetl2m0qj1olv3lkp8h8bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqDpJIGZJs7uK0XPdw0rhDtHyrETAXsEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326512799531-9ijhdq1bcdoetl2m0qj1olv3lkp8h8bb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
